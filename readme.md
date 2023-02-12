@@ -8,7 +8,7 @@ Our product is a creative imagining of a prototype Pokédex. In this Pokédex, t
 
 
 
-Addition information:
+### Addition information:
 
 In addition to the required functions, we added "Display Titles of all Tables" and "Display Tuples in Requested Table" functions. Users can see all instances of all tables when using the "Display Tuples in Requested Table" option.
 
